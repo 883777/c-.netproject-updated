@@ -1,0 +1,10 @@
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\obj\Debug\TCPIP protocol communication.csprojAssemblyReference.cache
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\obj\Debug\TCPIP_protocol_communication.Form1.resources
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\obj\Debug\TCPIP_protocol_communication.Properties.Resources.resources
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\obj\Debug\TCPIP protocol communication.csproj.GenerateResource.cache
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\obj\Debug\TCPIP protocol communication.csproj.CoreCompileInputs.cache
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\bin\Debug\TCPIP protocol communication.exe.config
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\bin\Debug\TCPIP protocol communication.exe
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\bin\Debug\TCPIP protocol communication.pdb
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\obj\Debug\TCPIP protocol communication.exe
+C:\Users\santhosh\source\repos\TCPIP protocol communication\TCPIP protocol communication\obj\Debug\TCPIP protocol communication.pdb
